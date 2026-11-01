@@ -7,13 +7,13 @@ An end-to-end Power BI data analytics solution created for the **Olist Brazilian
 ## 📸 Dashboard Preview
 
 ### 1️⃣ Page 1: Sales & Revenue Analytics
-![Sales & Revenue Dashboard](./docs/sales_revenue_dashboard.png)
+![Sales & Revenue Dashboard](./Screenshot%20(1453).png)
 
 ### 2️⃣ Page 2: Operations & Logistics Performance
-![Operations & Logistics Dashboard](./docs/operations_logistics_dashboard.png)
+![Operations & Logistics Dashboard](./Screenshot%20(1454).png)
 
 ### 3️⃣ Data Model Schema (Star Schema)
-![Data Model](./docs/data_model.png)
+![Data Model](./Screenshot%20(1455).png)
 
 ---
 
